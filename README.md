@@ -47,19 +47,15 @@ This message will self destruct in 5... 4... 3... 2... 1... NOT
    Clone the project to your local machine using the following command:
 
    ```bash
-   git clone <repository-url>
+   git clone [<repository-url>](https://github.com/vishalboine/list-assessment.git)
    ```
-
-   Replace `<repository-url>` with the actual URL of the repository.
 
 2. **Navigate to the Project Directory**
    Move into the project directory:
 
    ```bash
-   cd <project-directory>
+   cd list-assessment
    ```
-
-   Replace `<project-directory>` with the folder where the project was cloned.
 
 3. **Install Dependencies**
    Run the following command to install the required dependencies:
@@ -68,23 +64,11 @@ This message will self destruct in 5... 4... 3... 2... 1... NOT
    npm install
    ```
 
-   Or if you're using yarn:
-
-   ```bash
-   yarn install
-   ```
-
 4. **Start the Development Server**
    Once the dependencies are installed, you can start the development server:
 
    ```bash
    npm start
-   ```
-
-   Or with yarn:
-
-   ```bash
-   yarn start
    ```
 
 5. **Access the Application**
